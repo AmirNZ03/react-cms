@@ -1,0 +1,62 @@
+:root{
+    --theme:#090c1e;
+    --theme-color: #040415;
+    --ds:#AAB3D9;
+}
+.kx{
+    display: flex;
+    flex-direction: column;
+}
+.tie{
+    background-color: var(--theme-color);
+    width: 60rem;
+    height: 10rem;
+    border-radius: 0.5rem;
+margin-top: 2rem;
+margin-left: 3rem;
+}
+.pqi{
+    display: flex;
+   
+}
+.cxc{
+    margin-left: 10rem;
+    background-color: var(--theme);
+    border-radius: 0.5rem;
+    color: var(--ds);
+    width: 21rem;
+    height: 2rem;
+}
+.lpa{
+
+    margin-left: 13rem;
+    background-color: var(--theme);
+    border-radius: 0.5rem;
+    color: var(--ds);
+    width: 21rem;
+    height: 2rem;
+  
+}
+.pqil{
+    display: flex;
+  
+}
+.asx{
+    margin-top: 2rem;
+    margin-left: 10rem;
+    background-color: var(--theme);
+    border-radius: 0.5rem;
+    color: var(--ds);
+    width: 21rem;
+    height: 2rem;
+}
+
+.twe{
+    margin-top: 2rem;
+    margin-left: 11rem;
+    background-color: var(--theme);
+    border-radius: 0.5rem;
+    color: var(--ds);
+    width: 21rem;
+    height: 2rem;
+}

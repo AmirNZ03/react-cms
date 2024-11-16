@@ -1,0 +1,52 @@
+   <tr>
+          
+        <td>
+        <button className='hazf' onClick={()=>setIsShowModal(true)}>حذف</button>
+        <button className='edir' onClick={()=>setIsShowEditModal(true)}>ویرایش</button>
+       </td>
+          <td className='count'>80</td>
+          <td className='price'>900,000 تومان</td>
+          <td className='name'>لپ تاپ ایسوس</td>
+          <td><img src="./41d43012149f70c0f9bc1f3d9619b6746cc29674_1692203922.jpg" alt="" className='aks' /></td>
+        
+        
+        </tr>
+        <tr>
+          
+        <td>
+        <button className='hazf' onClick={()=>setIsShowModal(true)}>حذف</button>
+        <button className='edir' onClick={()=>setIsShowEditModal(true)}>ویرایش</button>
+       </td>
+          <td className='count'>82</td>
+          <td className='price'>200,000 تومان</td>
+          <td className='name'>پودر لباسشویی</td>
+          <td><img src="./9ba678e89378432d59e0ac5a13811d0ac8f084c0_1699094036.webp" alt="" className='aks' /></td>
+        
+        
+        </tr>
+        <tr>
+          
+        <td>
+        <button className='hazf'onClick={()=>setIsShowModal(true)}>حذف</button>
+        <button className='edir' onClick={()=>setIsShowEditModal(true)}>ویرایش</button>
+       </td>
+          <td className='count'>62</td>
+          <td className='price'>80,000 تومان</td>
+          <td className='name'>روغن سرخکردنی</td>
+          <td><img src="./428b3e2c583758782183d53231b198c1f2a46d5b_1686053583.webp" alt="" className='aks' /></td>
+        
+        
+        </tr>
+        <tr>
+          
+       <td>
+        <button className='hazf' onClick={()=>setIsShowModal(true)}>حذف</button>
+        <button className='edir' onClick={()=>setIsShowEditModal(true)}>ویرایش</button>
+       </td>
+          <td className='count'>20</td>
+          <td className='price'>700,000 تومان</td>
+          <td className='name'>ساعت مچی</td>
+          <td><img src="./1b3e627c79389e9f99bd355154bc317d21acc555_1727081471.jpg" alt="" className='aks' /></td>
+        
+        
+        </tr>

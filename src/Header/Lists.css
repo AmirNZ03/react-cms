@@ -1,0 +1,96 @@
+:root{
+    --theme:#090c1e;
+    --theme-color: #040415;
+    --ds:#AAB3D9;
+    --oac:#191e3a;
+}
+.margh{
+
+    background-color: var(--oac);
+    width: 14rem;
+    /* height: 20rem; */
+  height: 20rem !important;
+    z-index: 2;
+    border-radius: 0.5rem;
+    transition: 0.4s;
+    top: 4rem;
+    left: 10rem;
+    /* height: 1vh; */
+    /* position: fixed; */
+    position: fixed;
+
+}
+#czz{
+    font-size: 12px;
+    text-align: center;
+}
+#acx{
+    display: flex;
+    flex-direction: column;
+}
+#ca{
+    width: 10rem;
+    height: 2rem;
+    background-color: var(--theme);
+    border-radius: 0.5rem;
+    margin-top: 1rem;
+    margin-left: 2rem;
+    color: var(--ds);
+}
+#clo{
+    font-size: 11px;
+    color: var(--ds);
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+#qp{
+    display: flex;
+}
+#up{
+    font-size: 12px;
+    color: var(--ds);
+    font-weight: bold;
+    margin-left: 7rem;
+    margin-top: 1rem;
+}
+#ups{
+    font-size: 12px;
+    color: var(--ds);
+    font-weight: bold;
+    margin-left: 8rem;
+    margin-top: 1rem;
+}
+#ln{
+    font-size: 11px;
+    color: var(--ds); 
+    margin-left: 2.2rem;
+    margin-top: 0.5rem;
+    
+}
+#lnl{
+    font-size: 11px;
+    color: var(--ds); 
+    margin-left: 2.9rem;
+    margin-top: 0.5rem;
+    
+}
+#lnp{
+    font-size: 11px;
+    color: var(--ds); 
+    margin-left: 3rem;
+    margin-top: 0.5rem;
+}
+#lnx{
+    font-size: 11px;
+    color: var(--ds); 
+    margin-left: 4.5rem;
+    margin-top: 0.5rem;
+    
+}
+#mas{
+    padding-bottom: 0.5rem;
+    border-bottom: 0.5px solid black;
+}
+/* #qp{
+
+} */

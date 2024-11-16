@@ -1,0 +1,94 @@
+:root{
+    --thee:#040415;
+    --col:#F1F1F1;
+    --vf:#AAB3D9;
+}
+.circ{
+    width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: 
+    radial-gradient(closest-side,#040415 90%, transparent 80% 100%),
+    conic-gradient(#4527a0 90%,rgb(34, 33, 33) 0);  
+    margin-left: 1.5rem;
+  padding-top: 3rem;
+  left: -2rem;
+  
+}
+.fax{
+    width: 20rem;
+    height: 12rem;
+    border-radius: 0.5rem;
+   background-color:var(--thee);
+   margin-top: 2rem;
+   margin-left: 2rem;
+   padding-left: 1.5rem;
+}
+.text{
+    color: var(--col);
+    padding-left: 2.5rem;
+    padding-top: -3rem;
+}
+.jn{
+  color: var(--vf);
+  margin-left: 1rem;
+  margin-top: 1rem;
+  width: 150%;
+  right: 2rem !important;
+}
+
+.circ1{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: 
+    radial-gradient(closest-side,#040415 90%, transparent 80% 100%),
+    conic-gradient(pink 60%,rgb(34, 33, 33) 0);  
+    margin-left: 1rem;
+  padding-top: 3rem;
+  left: -2rem;
+}
+.circ2{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: 
+    radial-gradient(closest-side,#040415 90%, transparent 80% 100%),
+    conic-gradient(green 50%,rgb(34, 33, 33) 0);  
+    margin-left: 1.5rem;
+  padding-top: 3rem;
+  left: -2rem;
+}
+.circ3{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: 
+    radial-gradient(closest-side,#040415 90%, transparent 80% 100%),
+    conic-gradient(yellow 40%,rgb(34, 33, 33) 0);  
+    margin-left: 1.5rem;
+  padding-top: 3rem;
+  left: -2rem;
+}
+.circ4{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: 
+    radial-gradient(closest-side,#040415 90%, transparent 80% 100%),
+    conic-gradient(aqua 35%,rgb(34, 33, 33) 0);  
+    margin-left: 1.5rem;
+  padding-top: 3rem;
+  left: -2rem;
+}
+.circ5{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: 
+    radial-gradient(closest-side,#040415 90%, transparent 80% 100%),
+    conic-gradient(aqua 35%,rgb(34, 33, 33) 0);  
+    margin-left: 1.5rem;
+  padding-top: 3rem;
+  left: -2rem;
+}

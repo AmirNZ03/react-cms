@@ -1,0 +1,119 @@
+:root{
+    --theme:#090c1e;
+    --theme-color: #040415;
+    --ds:#AAB3D9;
+    --vn:#1b2e4b;
+}
+.mat{background-color: #040415;
+
+border-radius:0.5rem;
+width: 65rem;
+height: 50rem;
+margin-left: 2rem;
+margin-top: 2rem;
+}
+.matn{
+    color: var(--ds);
+    font-size: 14px;
+    text-align: right
+}
+.matnu{
+    color: var(--ds);
+    font-size: 14px;
+    text-align: right
+    
+}
+.mxa{
+    padding-left: 16rem;
+    font-size: 12px;
+    padding-top: 0.5rem;
+}
+.mxv{
+    /* padding-left: 16rem; */
+    font-size: 12px;
+    padding-top: 0.5rem;
+}
+.paf{
+    margin-top: 1rem;
+}
+.xpa{
+    display: flex;
+    flex-direction: column;
+}
+.rami{
+    display: flex;
+}
+
+.mila{
+     background-color:var(--vn) ;
+     border-radius: 0.5rem;
+   width: 25rem;
+   height: 4.5rem;
+   margin-left: 20rem;
+   margin-top: 2rem;
+   
+}
+#lk{
+    width: 30rem;
+    height: 9rem;
+    margin-left: 18rem;
+    margin-top: 2rem;
+    background-color: var(--vn);
+    border-radius: 0.5rem;
+    
+}
+#face{
+    margin-top: 2rem;
+    width: 40rem;
+    border: none;
+    outline: none;
+    background-color: #03a9f4;
+    border-radius: 0.5rem;
+    height: 2rem;
+    margin-left: 12rem;
+    color:white;
+    position: relative;
+    
+}
+#sa{
+/* margin-left: 4rem; */
+position: absolute;
+}
+.milaq{
+    background-color:var(--vn) ;
+    border-radius: 0.5rem;
+  width: 10rem;
+  height: 4.5rem;
+  margin-left: 35rem;
+  margin-top: 2rem;  
+}
+.bvc{
+    background-color:var(--vn) ;
+    border-radius: 0.5rem;
+  width: 10rem;
+  height: 4.5rem;
+  margin-left: 14rem;
+  margin-top: 2rem; 
+}
+.milan{
+    background-color:var(--vn) ;
+    border-radius: 0.5rem;
+  width: 30rem;
+  height: 6rem;
+  margin-left: 14rem;
+  margin-top: 2rem;
+}
+.cust{
+    border-radius: 100%;
+    height: 4rem;
+    margin-top: 1.5rem;
+   
+}
+.custz{
+    border-radius: 100%;
+    height: 4rem;
+    margin-top: 2.5rem;
+    margin-left: 10rem;
+    position: absolute;
+   
+}

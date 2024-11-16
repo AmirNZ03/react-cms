@@ -1,0 +1,51 @@
+:root{
+    --theme:#090c1e;
+    --theme-color: #040415;
+    --ds:#AAB3D9;
+}
+
+.adg{
+    background-color: var(--theme-color);
+    width: 65rem;
+    height: 60rem;
+    border-radius: 0.5rem;
+margin-top: 2rem;
+margin-left: 2rem;
+}
+
+
+
+
+
+/* .pqi :nth-child(1){
+    background-color: var(--theme);
+    width: 10rem;
+    border-radius: 0.5rem;
+    position: absolute;
+    margin-left: 10rem;
+   
+}
+.pqi :nth-child(2){
+    background-color: var(--theme);
+    width: 10rem;
+    border-radius: 0.5rem;
+    position: absolute;
+    margin-left: 20rem;
+   
+} */
+/* .pqil :nth-child(1){
+    background-color: var(--theme);
+    width: 10rem;
+    border-radius: 0.5rem;
+    position: absolute;
+    margin-left: 10rem;
+   
+}
+.pqil :nth-child(2){
+    background-color: var(--theme);
+    width: 10rem;
+    border-radius: 0.5rem;
+    position: absolute;
+    margin-left: 20rem;
+   
+} */

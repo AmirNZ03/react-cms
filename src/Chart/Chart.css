@@ -1,0 +1,148 @@
+:root{
+    --theme:#090c1e;
+    --theme-color: #040415;
+    --ds:#AAB3D9;
+    --vn:#1b2e4b;
+}
+.mxz{
+    display: flex;
+}
+.alex{
+    display: flex;
+    flex-direction: column;
+}
+.lf{
+    color: var(--ds);
+    margin-left: 26rem;
+    margin-top: 1rem;
+}
+.lfn{
+    color: var(--ds);
+    margin-left: 18rem;
+    margin-top: 1rem;
+}
+.lfl{
+    color: var(--ds);
+    margin-left: 45rem;
+    margin-top: 1rem;
+}
+.paqs{
+    width: 15rem;
+    background-color: var(--vn);
+    margin-left: 18rem;
+    margin-top: 2rem;
+    border-radius: 0.5rem; 
+    color: var(--ds);
+}
+.paqsx{
+    width: 15rem;
+    background-color: var(--vn);
+    margin-left: 7rem;
+    margin-top: 2rem;
+    border-radius: 0.5rem; 
+    color: var(--ds);
+}
+.kds{
+    background-color: #040415;
+    border-radius:0.5rem;
+   width: 65rem;
+   height: 70rem;
+   margin-left: 2rem;
+   margin-top: 2rem;
+
+}
+.qo{
+    display: flex;
+    color: var(--ds);
+    margin-top: 3rem;
+  
+}
+.mir{
+    display: flex;
+    flex-direction: column;
+    color: var(--ds);
+}
+.rim{
+    display: flex;
+    margin-left: 30rem;
+    margin-top: 2rem;
+}
+.mai{
+    color: black;
+}
+.hd{
+    border-radius: 100%;
+   width: 8rem;
+   height: 8rem;
+}
+.lasq{
+    width: 28rem;
+    background-color: var(--vn);
+    margin-left: 22rem;
+    margin-top: 2rem;
+    border-radius: 0.5rem;
+   
+  
+}
+.lasqi{
+    width: 14rem;
+    background-color: var(--vn);
+   margin-right: 20rem !important;
+    margin-top: 2rem;
+    border-radius: 0.5rem;
+   margin-top: 10rem;
+   position: absolute;
+
+  
+}
+.edt{
+    position: absolute;
+    padding-left: 63rem;
+    margin-top: 1.2rem;
+    font-size: 20px;
+}
+.atri{
+    display: flex;
+    flex-direction: column;
+}
+.paf{
+    padding-left: 50rem;
+}
+.ang{
+    border-radius: 100%;
+  background-color:var(--vn) ;
+  color: var(--ds);
+  width: 2rem;
+  height: 2rem;
+  margin-left: 2rem;
+  margin-top: 1rem;
+  text-align: center;
+}
+.up{
+    padding-left: 0.5rem;
+}
+.line{
+    margin-bottom: 0.5px solid var(--ds);
+    padding-bottom: 1rem;
+    
+}
+.cma{
+    margin-top: 1rem;
+    width: 63rem;
+    height: 4rem;
+    background-color: #fbc53c;
+    border-radius: 0.5rem;
+    margin-left: 1rem;
+  
+}
+.xam{
+    padding-top: 1rem;
+    padding-left: 7rem;
+
+}
+.madz{
+    position: absolute;
+    padding-left: 44rem;
+    padding-top: -9rem;
+}
+    

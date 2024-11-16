@@ -1,0 +1,127 @@
+:root{
+    --theme:#090c1e;
+    --theme-color: #040415;
+    --ds:#AAB3D9;
+}
+.sca{
+
+
+
+    margin-top: 2rem;
+}
+.edit-product{
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    width: 100%;
+    background-color: #f4f4f4;
+    padding: 0 20px;
+    border-radius: 10px;
+   
+}
+.edit-inp{
+    background-color: unset;
+    border: none;
+    outline: none;
+    font-size: 1.1rem;
+    width: 100%;
+    padding: 8px 10px;
+}
+/* .aux{
+    padding-left: 30rem !important;
+}
+/* .esm{
+    padding-left: 20rem;
+} */ 
+ /* .esm{
+    margin-left: 10rem;
+ } */
+ .msa{
+ color: var(--ds);
+ position: relative;
+ }
+  .ked{
+    padding-left: 27rem;
+    position: absolute;
+  }
+  .gev{
+    padding-left: 15rem;
+    position: absolute;
+  }
+  .esm{
+    padding-left: 40rem;
+    position: absolute;
+  }
+  .auxf{
+    padding-left: 48.5rem;
+    position: absolute;
+  }
+  .auxxz{
+    padding-left: 58rem;
+    position: absolute;
+   
+  }
+.count{
+    color: var(--ds);
+ padding-left: 5rem;
+}
+.prices{
+    color: var(--ds);
+    padding-left: 6rem;
+}
+.name{
+    color: var(--ds);
+padding-left: 10rem;
+    text-align: right;
+}
+.hazf{
+    border: none;
+    outline: none;
+    background-color: rgba(231, 46, 46, 0.678);
+    width: 5rem;
+    height: 2rem;
+    border-radius: 0.5rem;
+    color: var(--ds);
+    
+}
+.edir{
+    border: none;
+    outline: none;
+    background-color: rgba(30, 98, 224, 0.678);
+    width: 5rem;
+    height: 2rem;
+    border-radius: 0.5rem;
+    color: var(--ds);  
+}
+.aps{
+    background-color: var(--ds);
+    width: 30rem;
+    height: 15rem;
+    border-radius: 0.5rem;
+   
+}
+.lpsa{
+    display: flex;
+    flex-direction: column;
+}
+.aksxc{
+    width: 8rem !important;
+    height: 8rem !important;
+    
+    margin-top: 4rem !important;
+    padding-left: 3rem !important;
+    color: var(--ds);
+max-width: 15rem !important;
+   
+}
+.aksxf{
+    color: var(--ds);
+padding-left: 6rem;
+    text-align: right;
+   
+}
+.maxj{
+    display: flex;
+    flex-direction: column;
+}

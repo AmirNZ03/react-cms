@@ -1,0 +1,48 @@
+:root{
+    --theme:#090c1e;
+    --theme-color: #040415;
+}
+body{
+    background: var(--theme);
+    width: 50rem;
+    height: 90vh;
+
+}
+.head{
+    background-color: var(--theme-color);
+    width: 65rem;
+    height: 3rem;
+ margin-top: -0.1rem;
+    border-radius: 0.5rem;
+    margin-left: 2rem;
+   
+}
+.ico{
+    display: flex;
+    color: #AAB3D9;
+    align-items: center;
+   
+}
+.pm{
+    padding-top: 0.5rem;
+    padding-left: 3rem;
+}
+.da{
+    padding-left: 1rem;
+    padding-top: 0.8rem;
+    font-size: 16px;
+}
+.pis{
+    padding-left: 45rem;
+    padding-top: 0.5rem;
+}
+.lox{
+    display: flex;
+}
+.cac{
+    display: flex;
+    flex-direction: column;
+}
+.amk{
+    display: flex;
+}

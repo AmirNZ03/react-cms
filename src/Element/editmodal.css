@@ -1,0 +1,22 @@
+:root{
+    --theme:#090c1e;
+    --theme-color: #040415;
+    --ds:#AAB3D9;
+}
+.edit-modal{
+    width: 400px;
+    padding: 30px;
+    background-color: var(--ds);
+    text-align: center;
+}
+.edit-modal h1{
+    font-size: 1.4rem;
+}
+.edit-sub{
+    margin-top: 20px;
+    width: 100%;
+    padding: 8px 10px;
+    background-color: var(--theme);
+    color: var(--ds);
+    font-size: 1.1rem;
+}

@@ -1,0 +1,50 @@
+:root{
+    --theme: #090c1e;
+    --theme-color: #040415;
+    --mk: #AAB3D9;
+}
+.xox{
+    border-radius: 0.5rem;
+    width: 30rem;
+    height: 30rem;
+    background-color: var(--theme-color);
+    margin-top: 3rem;
+    margin-left: 2rem;
+}
+.daa{
+    font-size: 20px;
+    padding-left: 0.5rem;
+}
+.pl{
+    margin-left: 22rem;
+    color:var(--mk) ;
+    padding-right: 1rem;
+    width:150%;
+}
+.titl{
+    display: flex;
+    padding-top: 1.5rem;
+    position: relative;
+}
+.sass{
+    border-radius: 100%;
+background-color: gray;
+width: 2rem;
+height: 2rem;
+padding-left: 2rem;
+position: absolute;
+}
+.mass{
+    border-radius: 100%;
+    background-color: gray;
+    width: 2rem;
+    height: 2rem;
+    padding-left: 2rem;
+    position: absolute;  
+}
+.line{
+    padding-bottom: 2rem;
+    border-bottom: 0.25px solid var(--mk);
+    width: 90%;
+    margin-left: 1rem;
+}
